@@ -1,7 +1,7 @@
 OkHttp
 ======
 
-See the [project website][okhttp] for documentation and APIs.
+ดู [project website][okhttp] สำหรับเอกสารประกอบและ API.
 
 HTTP is the way modern applications network. It’s how we exchange data & media. Doing HTTP
 efficiently makes your stuff load faster and saves bandwidth.
